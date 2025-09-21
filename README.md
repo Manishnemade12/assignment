@@ -53,9 +53,8 @@ It demonstrates understanding of React and Next.js fundamentals including **rout
 
 ---
 
-### ⭐ Bonus (Optional)
-- Search or filter tracks (by Genre or Status) on Dashboard.
-- Theme switcher (light/dark mode) with `localStorage` persistence.
+### ⭐ Extra features
+- filter tracks (by Genre or Status) on Dashboard.
 - Persist login session with `localStorage`.
 
 ---
@@ -69,6 +68,9 @@ It demonstrates understanding of React and Next.js fundamentals including **rout
 - No real backend, only mock API
 
 ---
+
+
+
 
 ## 📡 Sample API Route (`/pages/api/tracks.js`)
 
