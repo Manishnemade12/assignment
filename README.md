@@ -105,3 +105,17 @@ export default function handler(req, res) {
 
   res.status(200).json(tracks);
 }
+```
+---
+
+## 📸 Project Screenshot
+
+![Music Distribution Platform Screenshot](https://res.cloudinary.com/do0jgbkjz/image/upload/v1758453246/vbm-admin/file_1758453246290.png)
+![Music Distribution Platform Screenshot](https://res.cloudinary.com/do0jgbkjz/image/upload/v1758453247/vbm-admin/file_1758453246950.png)
+![Music Distribution Platform Screenshot](https://res.cloudinary.com/do0jgbkjz/image/upload/v1758453245/vbm-admin/file_1758453244975.png)
+![Music Distribution Platform Screenshot](https://res.cloudinary.com/do0jgbkjz/image/upload/v1758453245/vbm-admin/file_1758453245664.png)
+![Music Distribution Platform Screenshot](https://res.cloudinary.com/do0jgbkjz/image/upload/v1758453246/vbm-admin/file_1758453246861.png)
+![Music Distribution Platform Screenshot](https://res.cloudinary.com/do0jgbkjz/image/upload/v1758453247/vbm-admin/file_1758453247035.png)
+
+---
+
